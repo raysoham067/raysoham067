@@ -191,6 +191,6 @@ I'm a **Computer Science undergrad** passionate about **Web Development, AI/ML, 
 
 **"The best way to predict the future is to invent it." — Alan Kay**
 
-![Profile views](https://raysoham067.github.io//ghpvc/?username=raysoham067&color=blueviolet)
+[![Profile views](https://komarev.com/ghpvc/?username=raysoham067&color=blueviolet)](https://raysoham067.github.io/)
 
 </div>
