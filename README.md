@@ -50,15 +50,23 @@ I'm a **Computer Science undergrad** passionate about **Web Development, AI/ML, 
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raysoham067&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raysoham067&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raysoham067&theme=dark&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raysoham067&theme=tokyonight&layout=compact&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=raysoham067&theme=tokyonight&hide_border=true)
 
 </div>
 
----
+<br>
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raysoham067&theme=tokyo-night&hide_border=true)
 
 ## 🏆 Featured Projects
 
