@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Soham%20Ray&fontAlign=50&fontAlignY=38&color=0:00c6ff,50:0072ff,100:001f3f&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlign=50&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Soham%20Ray&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:00c6ff&fontColor=ffffff&desc=Web%20Developer%20|%20AI/ML%20Enthusiast&descAlign=50&descAlignY=60&fontSize=70&descSize=20&animation=fadeIn" />
 
 <br>
 
@@ -11,7 +11,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+scalable+apps;Full+Stack+Developer+%7C+AI+Enthusiast;DSA+%7C+System+Design+Learner;Always+learning+new+things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00C6FF&center=true&vCenter=true&width=600&lines=Building+modern+web+solutions;AI+%2F+ML+Integration;DSA+%7C+System+Design+Learner;Always+learning+new+things+🚀" />
 
 </div>
 
@@ -24,7 +24,7 @@
 I'm a **Computer Science undergrad** passionate about **Web Development, AI/ML, and DSA**. I love the intersection of clean code architecture and beautiful user experiences.
 
 * 🎓 **CSE Undergrad** | Exploring DSA & ML
-* 💻 **Full-stack Dev** | React, Node.js & MERN
+* 💻 **Web Dev** | React, Node.js & MERN Stack
 * 🧠 **AI Integration** | System Design & Deep Learning
 * 🌍 **Location** | Kolkata, India
 
