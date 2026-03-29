@@ -50,8 +50,6 @@ I'm a **Computer Science undergrad** passionate about **Web Development, AI/ML, 
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raysoham067&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
