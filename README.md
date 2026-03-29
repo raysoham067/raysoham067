@@ -139,8 +139,7 @@ I'm a **Computer Science undergrad** passionate about **Web Development, AI/ML, 
 
 - 🚀 Advanced Full-Stack Development (MERN Stack)
 - 🤖 Deep Learning & Neural Networks
-- 📊 System Design & Scalability
-- ☁️ Cloud Architecture (AWS)
+
 
 ---
 
