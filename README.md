@@ -70,9 +70,9 @@ I'm a **Computer Science undergrad** passionate about **Web Development, AI/ML, 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raysoham067&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raysoham067/raysoham067&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raysoham067&theme=tokyonight&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raysoham067/raysoham067S&theme=tokyonight&layout=compact&hide_border=true" />
 
 <br>
 
