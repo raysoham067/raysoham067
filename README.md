@@ -70,16 +70,15 @@ I'm a **Computer Science undergrad** passionate about **Web Development, AI/ML, 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raysoham067&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" onerror="this.style.display='none'"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raysoham067&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raysoham067&theme=tokyonight&layout=compact&hide_border=true" onerror="this.style.display='none'"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raysoham067&theme=tokyonight&layout=compact&hide_border=true" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=raysoham067&theme=tokyonight&hide_border=true" onerror="this.style.display='none'"/>
+<img src="https://streak-stats.demolab.com?user=raysoham067&theme=tokyonight&hide_border=true" />
 
 </div>
-
 ---
 
 ## 📈 Contribution Graph
